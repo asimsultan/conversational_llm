@@ -1,0 +1,3 @@
+Flask==2.0.3
+mlx_lm  # Add the specific version if needed
+gunicorn==20.1.0
